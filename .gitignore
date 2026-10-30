@@ -1,0 +1,4 @@
+build*/
+reports/
+*.png
+.DS_Store
